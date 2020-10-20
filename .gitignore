@@ -1,2 +1,7 @@
-*.class
+.mvn/
+target/
 *.log
+
+### IntelliJ IDEA ###
+.idea
+*.iml
